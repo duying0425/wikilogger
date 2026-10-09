@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+wikilogger.db
+wikilogger.db-*
+.env
+.venv
+venv/
+*.log
+cache/
+data/
+.pytest_cache/
+docker-compose.override.yml
